@@ -1,5 +1,9 @@
 # TONCA$H Project
 
+<div align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/66b9a1afe4355a5823dc7d8b/f5b11dd2-3393-48f3-b62c-3f2ed2560179/TS+Logomark+Color+%281%29.png?format=300w" alt="TONCA$H Logo">
+</div>
+
 ## Frontend
 **Hosting:**
 - **Platform:** Vercel
